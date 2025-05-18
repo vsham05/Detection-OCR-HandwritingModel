@@ -1,2 +1,2 @@
-# Detection-OCR-HandwritingModel
-HOCR for 1bit
+# Detection-HTR-Model
+HTR for 1bit
